@@ -1,6 +1,6 @@
 ---
-layout:post
-title: Memory-Before-Today
+layout: post
+title: First Blog in Github
 ---
 
 中文支持吗？
