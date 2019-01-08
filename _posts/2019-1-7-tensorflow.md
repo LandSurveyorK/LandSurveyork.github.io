@@ -11,12 +11,12 @@ title: Quotes About Tensorflow
   
   * 测试是否成功安装
   
-  ''' python
+  ``` python
   import tensorflow as tf 
   hello = tf.constant("Hello, World")
   sess = tf.Session()
   print(sess.run(hello))
-  '''
+  ```
    
 * tf.layers, tf.metrices, tf.losses, tf.keras这几个模块使得tensorflow十分适用于高级别神经网络运算;
 * Tensorflow提供了一个非常灵活的构架，使得你可以仅仅用一个API在桌面，服务器或者移送设备等平台上的一个或者多个CPU或者GPU上部署运算;
@@ -34,7 +34,7 @@ key to doing good reasearch.
 * Suports both convolution networks and recurrent networkds, as well as conbinations of the two
 * Runs seamlessly on CPU and GPU
 
-''' python
+``` python
 import keras
 from keras.models import Sequential
 model = Sequential()
@@ -51,4 +51,4 @@ model.fit(x_train, y_trian, epochs = 5, batch_size=32)
 loss_and_metrics = model.evaluate(x_text,y_test,batch_size=128)
 classes = model.predict(x_text,batch_size=128)
 
-'''
+```
