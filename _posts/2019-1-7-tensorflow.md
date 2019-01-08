@@ -5,11 +5,11 @@ title: Quotes About Tensorflow
 
 众多科技巨头在其商业chanp里使用了tensorflow框架。例如ARM,Google, Intel, eBay, Qualcomm, SAM, Dropbox, Twitter
 
-* 关于tensorflow的安装(cpu版) [tensorflow configuration](https://plus.google.com/+PENGWEI-AI/posts/AEcDEXnZzLN)
-  似乎 pip install tensorflow,(pip install keras) 比conda install 靠谱一些，以为pip会将重复，不兼容的文件去掉。
+* 关于tensorflow的安装(cpu版) [tensorflow configuration](https://plus.google.com/+PENGWEI-AI/posts/AEcDEXnZzLN).
+  pip install tensorflow 比conda install tensorflow 靠谱一些，因为pip会自动将重复的，不兼容的文件去掉。
   折腾tensorflow用了好长时间，下次安装package的时候还是得注意兼容问题。
   
-  * 测试是否成功安装
+   测试是否成功安装
   
   ``` python
   import tensorflow as tf 
@@ -52,3 +52,4 @@ loss_and_metrics = model.evaluate(x_text,y_test,batch_size=128)
 classes = model.predict(x_text,batch_size=128)
 
 ```
+Like what is said in the introduction of Keras, it takes least time to convert idea into experiments. 
