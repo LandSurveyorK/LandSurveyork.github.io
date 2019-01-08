@@ -14,8 +14,8 @@ title: memory-before-today
   * Les Demopiselles D'Avignon, Pablo Picasso
   * The persistence of Memory, Salvador Dali
   * Christina's world, Andrew Wyeth
- 还有些我个人比较偏爱的，比如
- *  The Olive Trees, VIncent Van Gogh
+  还有些我个人比较偏爱的，比如
+  *  The Olive Trees, VIncent Van Gogh
  里面的每一幅画都值得驻足半小时欣赏，我自然无法体会画家的手法，只能尝试画里面，以及画的纹理来想象一个故事。妙趣横生。 晚上看了一场百老汇的音乐剧[King kong](https://www.expedia.com/things-to-do/king-kong-on-broadway.a514452.activity-details?regionId=201&semcid=US.MULTILOB.GOOGLE.AT-c-EN.TSHOP&semdtl=a11345517908.b153620168546.r1.g1dsa-497511626357.i149514285380.d1296196410142.e1c.j11025202.k1.f11t2.n1.l1g.h1b.m1&gclid=Cj0KCQiAjszhBRDgARIsAH8KgvcEGGSAhi97Y93E5nCBBJO-3xjfDgtAQt1RLonvdSAR9l7PCiDymPYaAj_eEALw_wcB)。 有那么一刻我感觉自己就是在电影《king kong》里面的百老汇剧场里，当然我指的是那个时代。我惊讶于舞台的多变与逼真，惊讶于金刚以假乱真的动作和神态。 有意思的是WYF女士被感动得啜泣不止。 对，带纽约地铁里看到一只老鼠，素来被人诟病脏乱差的纽约地铁果不其然，我很庆幸我在不断验证这电影里的，书里的纽约。
  
 * 1-5， 去korean town吃了泡菜汤，启程回匹兹堡。晚上去YQW女士家拿她不远万里从国内给我带的水笔和笔芯。别来无恙。
