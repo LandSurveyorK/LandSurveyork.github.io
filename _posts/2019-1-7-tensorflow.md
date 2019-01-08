@@ -11,7 +11,7 @@ title: Quotes About Tensorflow
   
   * 测试是否成功安装
   
-  '''python
+  ''' python
   import tensorflow as tf 
   hello = tf.constant("Hello, World")
   sess = tf.Session()
@@ -34,7 +34,7 @@ key to doing good reasearch.
 * Suports both convolution networks and recurrent networkds, as well as conbinations of the two
 * Runs seamlessly on CPU and GPU
 
-'''python
+''' python
 import keras
 from keras.models import Sequential
 model = Sequential()
