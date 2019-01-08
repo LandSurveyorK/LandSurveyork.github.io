@@ -1,0 +1,18 @@
+---
+layout: post
+title: Quotes About Tensorflow
+---
+
+众多科技巨头在其商业chanp里使用了tensorflow框架。例如ARM,Google, Intel, eBay, Qualcomm, SAM, Dropbox, Twitter
+
+* 关于tensorflow的安装(cpu版) [tensorflow configuration](https://plus.google.com/+PENGWEI-AI/posts/AEcDEXnZzLN)
+  * 测试是否安装成功
+  '''python 
+  
+  
+  '''
+   
+* tf.layers, tf.metrices, tf.losses, tf.keras这几个模块使得tensorflow十分适用于高级别神经网络运算;
+* Tensorflow提供了一个非常灵活的构架，使得你可以仅仅用一个API在桌面，服务器或者移送设备等平台上的一个或者多个CPU或者GPU上部署运算;
+* Tensorflow能够自动对内存的使用和数据进行管理和优化。现在，可以使用NIVIDA，cuDNN和CUDA工具包，在自己的计算机上进行大规模，数据密集型GPU运算;
+* 可扩展，有强大的community
